@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\FG\FG\bin\Debug\FG.exe.config
+C:\Users\user\Desktop\FG\bin\Debug\FG.exe.config
+C:\Users\user\Desktop\FG\obj\Debug\FG.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FG\obj\Debug\FG.FG.resources
+C:\Users\user\Desktop\FG\obj\Debug\FG.Properties.Resources.resources
+C:\Users\user\Desktop\FG\obj\Debug\FG.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\FG\bin\Debug\FG.exe
+C:\Users\user\Desktop\FG\bin\Debug\FG.pdb
+C:\Users\user\Desktop\FG\obj\Debug\FG.exe
+C:\Users\user\Desktop\FG\obj\Debug\FG.pdb
