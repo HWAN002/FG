@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\FG\bin\Release\FG.exe.config
+C:\Users\user\Desktop\FG\bin\Release\FG.exe
+C:\Users\user\Desktop\FG\bin\Release\FG.pdb
+C:\Users\user\Desktop\FG\obj\Release\FG.FG.resources
+C:\Users\user\Desktop\FG\obj\Release\FG.Properties.Resources.resources
+C:\Users\user\Desktop\FG\obj\Release\FG.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\FG\obj\Release\FG.exe
+C:\Users\user\Desktop\FG\obj\Release\FG.pdb

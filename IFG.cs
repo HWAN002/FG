@@ -1,4 +1,4 @@
-﻿namespace FG
+namespace FG
 {
     public interface IFG
     {
